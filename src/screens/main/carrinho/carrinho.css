@@ -1,0 +1,16 @@
+.lista-endereços li {
+  border: 2px solid #9e9c9c;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+    cursor:pointer;
+}
+
+.lista-endereços li:hover{
+  background-color: #9e9c9c5d;
+}
+
+.lista-endereços {
+  list-style-type:none;
+  padding: 0px;
+}
